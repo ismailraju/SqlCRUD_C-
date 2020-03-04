@@ -1,0 +1,9 @@
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\bin\Debug\testCRUD_App.exe.config
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.Form1.resources
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.Properties.Resources.resources
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.csproj.GenerateResource.Cache
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\bin\Debug\testCRUD_App.exe
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\bin\Debug\testCRUD_App.pdb
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.exe
+D:\PROJECTS\Visual Studio 2015\Projects\testCRUD_App\testCRUD_App\obj\Debug\testCRUD_App.pdb
